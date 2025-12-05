@@ -1,1 +1,1 @@
-Primera seccion
+\n Segunda seccion
